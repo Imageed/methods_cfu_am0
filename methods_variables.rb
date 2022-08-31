@@ -9,10 +9,10 @@
 #  call length on the variable, print it out
 
 chicken = "a large bird"
-chicken.upcase 
-chicken.downcase 
-chicken.reverse 
-chicken.length
+puts chicken.upcase 
+puts chicken.downcase 
+puts chicken.reverse 
+puts chicken.length
 
 
 
